@@ -1,5 +1,5 @@
 /* Service Worker — Código Palavra (offline-first) */
-const CACHE = 'codigo-palavra-v2';
+const CACHE = 'codigo-palavra-v3';
 const ASSETS = [
   './', './index.html', './style.css', './app.js', './core.js', './data.js', './render.js', './acts1.js', './acts2.js', './meta.js', './manifest.json',
   './icon.svg', './icon-192.png', './icon-512.png', './icon-maskable-512.png'
